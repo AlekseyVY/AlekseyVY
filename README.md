@@ -1,6 +1,16 @@
 ### Hi there My Name is Aleksey Vasiliev, here is some fun facts about me:
 ![Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alekseyvy&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)
 
+### Here is what I learned so far:
+![Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=YOUR_USERNAME&max-items=10&certificates=false&style=--item-bg-color:%23f00;--item-border-radius:10px)
+
+
+
+
+
+
+
+
 <!--
 **AlekseyVY/AlekseyVY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
