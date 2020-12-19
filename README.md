@@ -1,5 +1,5 @@
 ### Hi there My Name is Aleksey Vasiliev
-![Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alekseyvy&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)
+![Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alekseyvy&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)
 
 ![Skill chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=alekseyvy)
 
