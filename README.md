@@ -5,7 +5,7 @@
 ![Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=alekseyvy&max-items=10&certificates=false&style=--item-bg-color:%23f00;--item-border-radius:10px)
 
 ### Here is what I learned so far:
-![Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=certificates-section-title&username=alekseyvy&max-items=10&certificates=false&style=--item-bg-color:%23f00;--item-border-radius:10px)
+![Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=certificates-section&username=alekseyvy&max-items=10&certificates=false&style=--item-bg-color:%23f00;--item-border-radius:10px)
 
 
 
