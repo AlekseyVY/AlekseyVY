@@ -1,7 +1,5 @@
-### Hi there My Name is Aleksey Vasiliev
+### Hi there My Name is Aleksey Vasiliev, here is some fun facts about me:
 ![Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alekseyvy&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)
-
-![Skill chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=alekseyvy)
 
 <!--
 **AlekseyVY/AlekseyVY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
