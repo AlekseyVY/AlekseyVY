@@ -6,8 +6,8 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AlekseyVY&theme=midnight-purple&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyVY&theme=midnight-purple&layout=compact)
-<img height="170em" align="left" alt="Github Lnguages" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=alekseyvy&card&colormode=dark_mode" />
 
+![Codewars stats](https://github-readme-codewars-stats.herokuapp.com/api/?username=AlekseyVY&card&colormode=dark_mode)
 
 <!--
 **AlekseyVY/AlekseyVY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
