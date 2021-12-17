@@ -7,6 +7,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyVY&theme=midnight-purple&layout=compact)
 
+### [My blog](https://medium.com/@alekseyvy)
 ### [Curriculum Vitae](https://alekseyvy-cv.netlify.app/)
 ### [VK](https://vk.com/alekseyvy)
 
