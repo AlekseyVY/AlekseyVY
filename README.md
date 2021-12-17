@@ -9,7 +9,7 @@
 
 ### [My blog](https://medium.com/@alekseyvy)
 ### [Curriculum Vitae](https://alekseyvy-cv.netlify.app/)
-### [VK](https://vk.com/alekseyvy)
+### [Social](https://vk.com/alekseyvy)
 
 <!--
 **AlekseyVY/AlekseyVY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
