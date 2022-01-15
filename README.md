@@ -2,10 +2,10 @@
 
 
 
-
+<!-- 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AlekseyVY&theme=midnight-purple&show_icons=true&count_private=true)   
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyVY&theme=midnight-purple&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyVY&theme=midnight-purple&layout=compact) -->
 
 ### [Blog](https://medium.com/@alekseyvy)
 ### [Curriculum Vitae](https://alekseyvy-cv.netlify.app/)
