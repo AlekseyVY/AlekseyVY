@@ -1,4 +1,4 @@
-### Hi there My Name is Aleksey Vasiliev
+### Hi there, My Name is Aleksey Vasiliev.
 
 
 
