@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksey Vasiliev</h1>
-<h3 align="center">Enthusiastic Full Stack Web Developer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. A clear understanding of Front End and Back End and training in JavaScript, React, Redux, ExpressJS, Html, CSS. Motivated to learn, grow and excel in Web Development.</h3>
+<h3 align="center">Enthusiastic Full Stack Web Developer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. A clear understanding of Front End and Back End. Motivated to learn, grow and excel in Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alekseyvy&label=Profile%20views&color=0e75b6&style=flat" alt="alekseyvy" /> </p>
 
