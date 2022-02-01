@@ -13,8 +13,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/@alekseyvy](https://medium.com/@alekseyvy)
 
-- 💬 Ask me about **React, Javascript.**
-
 - 📫 How to reach me **alekseyvy@gmail.com**
 
 - 📄 Know about my experiences [https://alekseyvy-cv.netlify.app/](https://alekseyvy-cv.netlify.app/)
