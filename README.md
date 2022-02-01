@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alekseyvyx" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="alekseyvyx" /></a>
-<a href="https://linkedin.com/in/aleksey-vasiliev-b79a53150" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aleksey-vasiliev-b79a53150" height="40" width="80" /></a>
+<a href="https://linkedin.com/in/aleksey-vasiliev-b79a53150" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aleksey-vasiliev-b79a53150" /></a>
 <a href="https://medium.com/@alekseyvy" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@alekseyvy" /></a>
 </p>
 
