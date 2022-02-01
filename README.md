@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [RS clone](https://clone-zero.netlify.app/)
 
-- 🌱 I’m currently learning **React Native, NestJS**
+- 🌱 I’m currently learning **React Native**
 
 - 📝 I regularly write articles on [https://medium.com/@alekseyvy](https://medium.com/@alekseyvy)
 
