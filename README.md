@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **alekseyvy@gmail.com**
 
-- 📄 Know about my experiences [https://alekseyvy-cv.netlify.app/](https://alekseyvy-cv.netlify.app/)
+- 📄 Know about my experiences [https://profile.codersrank.io/user/alekseyvy](https://profile.codersrank.io/user/alekseyvy)
 
 - ⚡ **love code and HIIT.**
 
