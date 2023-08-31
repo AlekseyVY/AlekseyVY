@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **alekseyvy@gmail.com**
 
-- 📄 Know about my experiences [https://profile.codersrank.io/user/alekseyvy](https://profile.codersrank.io/user/alekseyvy)
+- 📄 My LeetCode profile [**LeetCode Profile**](https://leetcode.com/alekseyvy/)
 
 - ⚡ **love code and HIIT.**
 
