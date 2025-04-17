@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 📝 I regularly write articles on [https://medium.com/@alekseyvy](https://medium.com/@alekseyvy)
+- 📝 I regularly write articles on [Advanced Frontend](https://t.me/AdvancedFrontend)
 
 - 📫 How to reach me **alekseyvy@gmail.com**
 
